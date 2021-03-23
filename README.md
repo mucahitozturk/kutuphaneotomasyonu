@@ -3,7 +3,7 @@
 Bu proje C programlama diliyle Algoritma Analizi ve Tasarım dersi ödevi için geliştirilmiştir.
 [Canlı Demo](https://onlinegdb.com/S1N6d_D4u)
 
-KÜTÜPHANE OTOMASYON SİSTEMİ - Projesinde sağlanmış fonksiyonlar:
+Projede sağlanmış fonksiyonlar:
 
   1-Kayit Ekle
   2-Kayit Listele
