@@ -13,5 +13,3 @@ Projede sağlanmış fonksiyonlar:
   
 ## Demo
 ![image](https://user-images.githubusercontent.com/32402864/112160992-c26e6900-8bfb-11eb-9a7e-08d46833d626.png)
-
-Canlı Demo
