@@ -1,6 +1,7 @@
 # Kütüphane Otomasyonu
 
 Bu proje C programlama diliyle Algoritma Analizi ve Tasarım dersi ödevi için geliştirilmiştir.
+[Canlı Demo](https://onlinegdb.com/S1N6d_D4u)
 
 KÜTÜPHANE OTOMASYON SİSTEMİ - Projesinde sağlanmış fonksiyonlar:
 
@@ -10,4 +11,7 @@ KÜTÜPHANE OTOMASYON SİSTEMİ - Projesinde sağlanmış fonksiyonlar:
   4-Kayit Ara
   5-Cikis
   
-  ![image](https://user-images.githubusercontent.com/32402864/112160856-a23eaa00-8bfb-11eb-8491-e396c5afa4bb.png)
+## Demo
+![image](https://user-images.githubusercontent.com/32402864/112160992-c26e6900-8bfb-11eb-9a7e-08d46833d626.png)
+
+Canlı Demo
