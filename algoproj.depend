@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527195311 source:c:\users\dell\desktop\programlama c dersi\algoproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
